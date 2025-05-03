@@ -2,7 +2,7 @@
 
 > Learning platform built with the MERN stack & Redux.
 
-<img src="./client/public/assets">
+<img src="./server/public/assets/Screenshot 2025-05-03 141356.png">
 
 
 ## Usage
