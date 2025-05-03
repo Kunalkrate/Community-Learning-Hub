@@ -16,7 +16,7 @@ Create the  `.env` inside server directory and add the following
 
 ```
 PORT = 3001
-MONGO_URI = your mongodb uri
+MONGO_URL = your mongodb uri
 JWT_SECRET = 'abc123'
 ```
 
